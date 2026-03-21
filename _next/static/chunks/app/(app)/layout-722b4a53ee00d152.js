@@ -160,7 +160,7 @@
                         className: "flex items-center gap-4.5 md:gap-4 mb-4",
                         children: [
                           (0, a.jsx)(m(), {
-                            href: "https://x.com/Ozak_aiX",
+                            href: "https://x.com/ai_ozakX",
                             target: "_blank",
                             children: (0, a.jsx)(h.TCj, {
                               className: "w-6 h-6 xl:w-7 xl:h-7",
@@ -441,7 +441,7 @@
                 className: "object-contain",
               }),
             }),
-            href: "https://x.com/Ozak_aiX",
+            href: "https://x.com/ai_ozakX",
           },
           {
             icon: (0, a.jsx)("div", {
@@ -746,7 +746,7 @@
         ],
         v = [
           { name: "Telegram", href: "http://t.me/ozakai_portal", icon: o.e1t },
-          { name: "X (Twitter)", href: "https://x.com/Ozak_aiX", icon: n.TCj },
+          { name: "X (Twitter)", href: "https://x.com/ai_ozakX", icon: n.TCj },
 
           {
             name: "IQWiki",
@@ -756,7 +756,7 @@
           },
         ],
         w = [
-          { icon: n.TCj, href: "https://x.com/Ozak_aiX", label: "Twitter" },
+          { icon: n.TCj, href: "https://x.com/ai_ozakX", label: "Twitter" },
           { icon: o.e1t, href: "https://t.me/ozakai_chat", label: "Telegram" },
         ];
       function j() {
@@ -1305,7 +1305,7 @@
                           className: "flex items-center justify-center gap-3",
                           children: [
                             (0, a.jsx)(d(), {
-                              href: "https://x.com/Ozak_aiX",
+                              href: "https://x.com/ai_ozakX",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
