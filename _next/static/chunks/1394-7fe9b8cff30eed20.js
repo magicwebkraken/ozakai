@@ -316,6 +316,14 @@
                           children:
                             "Each Purchase from your referral earns you 10% bonus. SHare more to Earn more.",
                         }),
+                        (0, s.jsx)("a", {
+                          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                          target: "_blank",
+                          rel: "noopener noreferrer",
+                          className:
+                            "inline-block text-center text-[#adadad] text-[14px] md:text-[16px] lg:text-[18px] leading-[1.2] md:leading-[31px] xl:leading-[24px] tracking-[-0.28px] md:tracking-[-0.32px] xl:tracking-[-0.36px] max-w-lg px-4 py-2 border border-[#adadad] rounded-lg hover:bg-[#adadad] hover:text-black transition",
+                          children: "Buy $OZ",
+                        })
                       ],
                     }),
                   ],
@@ -449,7 +457,7 @@
     31255: (e, t, a) => {
       "use strict";
       a.d(t, { G$: () => l, X8: () => r, rx: () => s });
-      let s = "0xComingSoon",
+      let s = "0x02b4a1b6de8e1403b70b842cc715aea86a45583c",
         l = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         r = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
     },
@@ -625,7 +633,7 @@
               position: { top: "949px", left: "530px" },
             },
           ],
-          c = "0xComingSoon",
+          c = "0x02b4a1b6de8e1403b70b842cc715aea86a45583c",
           o = async () => {
             try {
               await navigator.clipboard.writeText(c),

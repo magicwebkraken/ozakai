@@ -160,7 +160,7 @@
                         className: "flex items-center gap-4.5 md:gap-4 mb-4",
                         children: [
                           (0, a.jsx)(m(), {
-                            href: "https://x.com/ai_ozakX",
+                            href: "https://x.com/0zakAI_X",
                             target: "_blank",
                             children: (0, a.jsx)(h.TCj, {
                               className: "w-6 h-6 xl:w-7 xl:h-7",
@@ -294,7 +294,7 @@
     31255: (e, t, r) => {
       "use strict";
       r.d(t, { G$: () => s, X8: () => n, rx: () => a });
-      let a = "0xComingSoon",
+      let a = "0x02b4a1b6de8e1403b70b842cc715aea86a45583c",
         s = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         n = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
     },
@@ -441,7 +441,7 @@
                 className: "object-contain",
               }),
             }),
-            href: "https://x.com/ai_ozakX",
+            href: "https://x.com/0zakAI_X",
           },
           {
             icon: (0, a.jsx)("div", {
@@ -746,7 +746,7 @@
         ],
         v = [
           { name: "Telegram", href: "http://t.me/ozakai_portal", icon: o.e1t },
-          { name: "X (Twitter)", href: "https://x.com/ai_ozakX", icon: n.TCj },
+          { name: "X (Twitter)", href: "https://x.com/0zakAI_X", icon: n.TCj },
 
           {
             name: "IQWiki",
@@ -756,7 +756,7 @@
           },
         ],
         w = [
-          { icon: n.TCj, href: "https://x.com/ai_ozakX", label: "Twitter" },
+          { icon: n.TCj, href: "https://x.com/0zakAI_X", label: "Twitter" },
           { icon: o.e1t, href: "https://t.me/ozakai_chat", label: "Telegram" },
         ];
       function j() {
@@ -1305,7 +1305,7 @@
                           className: "flex items-center justify-center gap-3",
                           children: [
                             (0, a.jsx)(d(), {
-                              href: "https://x.com/ai_ozakX",
+                              href: "https://x.com/0zakAI_X",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
