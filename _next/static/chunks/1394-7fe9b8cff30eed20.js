@@ -317,7 +317,7 @@
                             "Each Purchase from your referral earns you 10% bonus. SHare more to Earn more.",
                         }),
                         (0, s.jsx)("a", {
-                          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x02b4a1b6de8e1403b70b842cc715aea86a45583c",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
