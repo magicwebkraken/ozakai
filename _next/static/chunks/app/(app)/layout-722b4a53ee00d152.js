@@ -748,12 +748,6 @@
           { name: "Telegram", href: "http://t.me/ozakai_chat", icon: o.e1t },
           { name: "X (Twitter)", href: "https://x.com/0zak_aiX", icon: n.TCj },
 
-          {
-            name: "IQWiki",
-            href: "https://iq.wiki/wiki/ozak-ai",
-            icon: "/icons/iqwiki-small.svg",
-            isImage: !0,
-          },
         ],
         w = [
           { icon: n.TCj, href: "https://x.com/0zak_aiX", label: "Twitter" },
