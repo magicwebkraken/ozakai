@@ -623,12 +623,12 @@
               position: { top: "780px", left: "241px" },
             },
             {
-              title: "Community Owned",
+              title: "LP Locked",
               percentage: "5%",
               position: { top: "780px", left: "619px" },
             },
             {
-              title: "Community Owned",
+              title: "LP Locked",
               percentage: "5%",
               position: { top: "949px", left: "530px" },
             },
@@ -720,85 +720,14 @@
                                   "relative w-fit font-normal text-white text-xl text-center tracking-[-0.08px] leading-6 whitespace-nowrap",
                                 children: e.title,
                               }),
-                              (0, s.jsxs)("div", {
-                                className:
-                                  "inline-flex items-center gap-3.5 relative flex-[0_0_auto] mr-[-9.00px]",
-                                children: [
-                                  (0, s.jsx)("span", {
-                                    className:
-                                      "relative w-fit mt-[-1.00px] font-semibold text-white text-[22px] text-center tracking-[-0.09px] leading-6 whitespace-nowrap",
-                                    children: e.percentage,
-                                  }),
-                                  (0, s.jsx)("div", {
-                                    className: "relative w-[268px] h-px",
-                                    children: (0, s.jsx)("div", {
-                                      className:
-                                        "relative w-[271px] h-[3px] -top-0.5 -left-0.5 bg-gray-700 rounded-full",
-                                      children: (0, s.jsx)("div", {
-                                        className:
-                                          "absolute h-[3px] top-0 left-0 bg-[#a6ff00] rounded-full",
-                                        style: {
-                                          width: 0 === t ? "85px" : "38px",
-                                        },
-                                      }),
-                                    }),
-                                  }),
-                                ],
-                              }),
+                              
                             ],
                           },
                           t
                         )
                       ),
                   }),
-                  (0, s.jsx)("div", {
-                    className:
-                      "flex w-[958px] items-center justify-between absolute top-[630px] left-[241px]",
-                    children: a
-                      .slice(2, 4)
-                      .map((e, t) =>
-                        (0, s.jsxs)(
-                          "article",
-                          {
-                            className:
-                              "flex flex-col w-[380px] h-[99px] items-start justify-center gap-[9px] px-[30px] py-px relative bg-[#5151511a] rounded-[22px] border border-[#FFFFFF33] shadow-[inset_-3px_-1px_14px_#ffffff1a] backdrop-blur-[57px] backdrop-brightness-[100%] [-webkit-backdrop-filter:blur(57px)_brightness(100%)]",
-                            children: [
-                              (0, s.jsx)("h3", {
-                                className:
-                                  "relative w-fit font-normal text-white text-xl text-center tracking-[-0.08px] leading-6 whitespace-nowrap",
-                                children: e.title,
-                              }),
-                              (0, s.jsxs)("div", {
-                                className:
-                                  "inline-flex items-center gap-3.5 relative flex-[0_0_auto] mr-[-9.00px]",
-                                children: [
-                                  (0, s.jsx)("span", {
-                                    className:
-                                      "relative w-fit mt-[-1.00px] font-semibold text-white text-[22px] text-center tracking-[-0.09px] leading-6 whitespace-nowrap",
-                                    children: e.percentage,
-                                  }),
-                                  (0, s.jsx)("div", {
-                                    className: "relative w-[268px] h-px",
-                                    children: (0, s.jsx)("div", {
-                                      className:
-                                        "relative w-[271px] h-[3px] -top-0.5 -left-0.5 bg-gray-700 rounded-full",
-                                      children: (0, s.jsx)("div", {
-                                        className:
-                                          "absolute h-[3px] top-0 left-0 bg-[#a6ff00] rounded-full",
-                                        style: {
-                                          width: 0 === t ? "85px" : "38px",
-                                        },
-                                      }),
-                                    }),
-                                  }),
-                                ],
-                              }),
-                            ],
-                          },
-                          t + 2
-                        )
-                      ),
-                  }),
+                  
                   (0, s.jsxs)("article", {
                     className:
                       "flex flex-col w-[380px] h-[99px] items-start justify-center gap-[9px] px-[30px] py-px absolute top-[789px] left-[530px] bg-[#5151511a] rounded-[22px] border border-[#FFFFFF33] shadow-[inset_-3px_-1px_14px_#ffffff1a] backdrop-blur-[57px] backdrop-brightness-[100%] [-webkit-backdrop-filter:blur(57px)_brightness(100%)]",
@@ -808,28 +737,7 @@
                           "relative w-fit font-normal text-white text-xl text-center tracking-[-0.08px] leading-6 whitespace-nowrap",
                         children: a[4].title,
                       }),
-                      (0, s.jsxs)("div", {
-                        className:
-                          "inline-flex items-center gap-3.5 relative flex-[0_0_auto] mr-[-9.00px]",
-                        children: [
-                          (0, s.jsx)("span", {
-                            className:
-                              "relative w-fit mt-[-1.00px] font-semibold text-white text-[22px] text-center tracking-[-0.09px] leading-6 whitespace-nowrap",
-                            children: a[4].percentage,
-                          }),
-                          (0, s.jsx)("div", {
-                            className: "relative w-[268px] h-px",
-                            children: (0, s.jsx)("div", {
-                              className:
-                                "relative w-[271px] h-[3px] -top-0.5 -left-0.5 bg-gray-700 rounded-full",
-                              children: (0, s.jsx)("div", {
-                                className:
-                                  "w-[67px] absolute h-[3px] top-0 left-0 bg-[#a6ff00] rounded-full",
-                              }),
-                            }),
-                          }),
-                        ],
-                      }),
+                      
                     ],
                   }),
                   (0, s.jsxs)("section", {
